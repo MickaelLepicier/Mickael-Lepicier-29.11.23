@@ -1,0 +1,14 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+
+    .buttons{
+        margin: 22px;   
+    
+        button{
+            margin-left: 5px;
+            padding: 10px;
+        }
+    }
+}
